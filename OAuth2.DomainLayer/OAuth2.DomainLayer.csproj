@@ -6,4 +6,11 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Auth\" />
+    <Folder Include="Enum\" />
+    <Folder Include="Common\" />
+    <Folder Include="Settings\" />
+  </ItemGroup>
+
 </Project>
